@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-
+***Don't forget to download node modules ,type npm i in vs code terminal
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
